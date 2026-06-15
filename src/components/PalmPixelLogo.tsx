@@ -1,5 +1,5 @@
 import React from "react";
-import logoUrl from "../assets/images/ChatGPT_Image_Jun_15__2026__04_48_05_PM.png";
+import logoUrl from "../assets/images/palm-pixel-logo.png";
 
 interface LogoProps {
   className?: string;
