@@ -1,0 +1,6 @@
+{
+  "name": "Palm & Pixel AI Agency",
+  "description": "Custom AI solutions and intelligent automation architecture for premium service, trade, enterprise, and scaling modern businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
